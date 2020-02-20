@@ -4,7 +4,7 @@
 ### Live : [Demo](https://diarrhoeal-varactor.000webhostapp.com/)
 
 
-##Screen Shots
+## Screen Shots
 
 ## Admin Dashboard
 
