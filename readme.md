@@ -6,7 +6,7 @@
 
 ## Screen Shots
 
-## Admin Dashboard
+### Admin Dashboard
 
 ![](ss/ss6.png)
 ![](ss/ss7.png)
